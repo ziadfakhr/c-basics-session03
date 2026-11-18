@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\bin\Debug\net10.0\C# Basics Session03.exe
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\bin\Debug\net10.0\C# Basics Session03.deps.json
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\bin\Debug\net10.0\C# Basics Session03.runtimeconfig.json
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\bin\Debug\net10.0\C# Basics Session03.runtimeconfig.dev.json
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\bin\Debug\net10.0\C# Basics Session03.dll
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\bin\Debug\net10.0\C# Basics Session03.pdb
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basics Session03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basics Session03.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basics Session03.AssemblyInfo.cs
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basics Session03.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basics Session03.dll
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\refint\C# Basics Session03.dll
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basics Session03.pdb
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basics Session03.genruntimeconfig.cache
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\ref\C# Basics Session03.dll
+C:\Users\HP\source\repos\C# Basics Session03\C# Basics Session03\obj\Debug\net10.0\C# Basic.57FAA4B6.Up2Date
